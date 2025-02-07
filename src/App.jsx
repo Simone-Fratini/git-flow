@@ -6,7 +6,11 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
       <h1 className='text-center text-red-400 text-7xl pt-10'> mi piace la crostata anche senza marmellata</h1>
+=======
+      <h1 className='text-center text-red-400 text-7xl pt-10'>PROVA </h1>
+>>>>>>> ca13ed647bed9b46cb868a6f4adaed21c1dd08e4
     </>
   )
 }
